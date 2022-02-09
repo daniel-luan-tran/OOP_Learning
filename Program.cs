@@ -10,6 +10,17 @@ namespace OOP_Learning
     {
         static void Main(string[] args)
         {
+            //Diem A, B;
+            //A = new Diem();
+            //A.NhapDiem("Diem A");
+            //B = new Diem();
+            //B.NhapDiem("Diem B");
+
+            TamGiac t;
+            t = new TamGiac();
+            t.NhapTamGiac();
+
+            Console.ReadKey();
         }
     }
 }

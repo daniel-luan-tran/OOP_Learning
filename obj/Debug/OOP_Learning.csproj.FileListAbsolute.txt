@@ -1,0 +1,7 @@
+C:\Users\dell\OneDrive\KHTN\LTHDT\OOP_Learning\bin\Debug\OOP_Learning.exe.config
+C:\Users\dell\OneDrive\KHTN\LTHDT\OOP_Learning\bin\Debug\OOP_Learning.exe
+C:\Users\dell\OneDrive\KHTN\LTHDT\OOP_Learning\bin\Debug\OOP_Learning.pdb
+C:\Users\dell\OneDrive\KHTN\LTHDT\OOP_Learning\obj\Debug\OOP_Learning.csproj.AssemblyReference.cache
+C:\Users\dell\OneDrive\KHTN\LTHDT\OOP_Learning\obj\Debug\OOP_Learning.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\KHTN\LTHDT\OOP_Learning\obj\Debug\OOP_Learning.exe
+C:\Users\dell\OneDrive\KHTN\LTHDT\OOP_Learning\obj\Debug\OOP_Learning.pdb
